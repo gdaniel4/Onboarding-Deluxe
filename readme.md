@@ -5,7 +5,8 @@
 This is backend a consolidation of the two previous application solutions, Bread of LIfe and CFC, and we have, to the best of our abilities improved both upon them and introduced more functionality, that will hopefully benefit any organizaiton that utilzes it.
 
 ## Demo
-https://user-images.githubusercontent.com/70462084/168494396-c476fca9-29c7-4f1f-bda8-e0e7b8f3ce43.mp4
+https://user-images.githubusercontent.com/70462084/173996512-e4877b5d-41ad-486d-a46c-fe36aaf2cf8d.mp4
+
 
 ## How to Run API
 
